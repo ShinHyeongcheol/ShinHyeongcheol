@@ -1,16 +1,1 @@
-My name is SHC
-==============
-# Hello GDSC  
-## Decorate Git - 글머리 기호
-+ 글머리 기호
-  +  글머리 기호2
-     +  글머리 기호3   
-
-## Deco 2  
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"   
-
-## Deco 3
-글씨 굵기  
-**글씨 굵기**
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Shin%20Hyeongcheol&fontSize=70&animation=fadeIn&desc=Churany&descSize=30&descAlignY=60&fontAlignY=40)
